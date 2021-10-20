@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_dice"
+        android:icon="@drawable/ic_dice_6"
+        android:title="Roll a Dice"
+        app:cnb_iconColor="#03A9F4" />
+    <item
+        android:id="@+id/nav_coin"
+        android:icon="@drawable/ic_hand_coin"
+        android:title="Flip a Coin"
+        app:cnb_iconColor="#4CAF50" />
+
+
+</menu>
